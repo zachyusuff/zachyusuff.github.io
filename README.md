@@ -7,3 +7,4 @@ have the snake move forward 10 squares a second,
 creat mechanic for arrowkeys/wasd to turn snake,
 if the head of the snake is touching the food move food to a different position and increase the score by 1,
 the snake dies if it touches its tail or the walls,
+create mechanic where snake gets one gridlenght longer every time the scoregoes up
